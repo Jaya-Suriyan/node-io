@@ -4,6 +4,6 @@
 
 In the project directory, you can run:
 
-### `npmX start`
+### `npm start`
 
 ### `npm test`
